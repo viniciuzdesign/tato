@@ -2,6 +2,8 @@
 
 Site estático (HTML, CSS e JavaScript puros, sem build). Para publicar no Netlify, basta apontar para a raiz do repositório.
 
+https://viniciuzdesign.github.io/tato/
+
 ## Estrutura
 
 - `index.html` — página inicial
